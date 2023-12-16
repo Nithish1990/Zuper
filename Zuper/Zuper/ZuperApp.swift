@@ -2,7 +2,7 @@
 //  ZuperApp.swift
 //  Zuper
 //
-//  Created by nithish-17632 on 18/10/23.
+//  Created by nithish-17632 on 25/11/23.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct ZuperApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AddictionTrackerView()
         }
     }
 }

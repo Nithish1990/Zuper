@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9EC73D48-3FBD-4A65-B0A9-07BBD4A2F2AF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6F44BA7-1535-46A0-92B7-227E62DE46AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AddictionQuitter/Database/StreakDatabase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "fetchAllStreaks()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6F44BA7-1535-46A0-92B7-227E62DE46AB - b6dbb7ea9eea4bcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AddictionQuitter.DatabaseManager.fetchAllStreaks() throws -&gt; Swift.Array&lt;AddictionQuitter.Streak&gt;"
+                  moduleName = "AddictionQuitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nithish-17632/Desktop/Desktop/Zuper/AddictionQuitter/AddictionQuitter/Database/StreakDatabase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "3064">
+               </Location>
+               <Location
+                  uuid = "C6F44BA7-1535-46A0-92B7-227E62DE46AB - b6dbb7ea9eea4bcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AddictionQuitter.DatabaseManager.fetchAllStreaks() throws -&gt; Swift.Array&lt;AddictionQuitter.Streak&gt;"
+                  moduleName = "AddictionQuitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nithish-17632/Desktop/Desktop/Zuper/AddictionQuitter/AddictionQuitter/Database/StreakDatabase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "2880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1C24874-1DE8-4AFD-928B-AD8FE86CCEA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AddictionQuitter/Home/View/ProgressView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "increaseProgressBy1Second(start:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

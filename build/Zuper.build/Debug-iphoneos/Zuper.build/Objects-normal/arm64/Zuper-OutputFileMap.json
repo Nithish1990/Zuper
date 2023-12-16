@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/Zuper-master.dia",
+    "emit-module-dependencies" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/Zuper-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/Zuper-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/Zuper-master.swiftdeps"
+  },
+  "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/nithish-17632/Desktop/Desktop/Zuper/Zuper/ZuperApp.swift" : {
+    "const-values" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/ZuperApp.swiftconstvalues",
+    "dependencies" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/ZuperApp.d",
+    "diagnostics" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/ZuperApp.dia",
+    "index-unit-output-path" : "/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/ZuperApp.o",
+    "llvm-bc" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/ZuperApp.bc",
+    "object" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/ZuperApp.o",
+    "swift-dependencies" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/ZuperApp.swiftdeps",
+    "swiftmodule" : "/Users/nithish-17632/Desktop/Desktop/Zuper/build/Zuper.build/Debug-iphoneos/Zuper.build/Objects-normal/arm64/ZuperApp~partial.swiftmodule"
+  }
+}
